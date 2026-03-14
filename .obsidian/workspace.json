@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "61080911f7ee314f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ea0ceef1ac51fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db86526175ee065d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "734d686584d3da49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "12d8996652ef1d97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "fb03abb20c05552f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HAPVault/Articles/Planned/Article-pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Article-pipeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "91a169b8525c6574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f12722edb58e693f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8be4b1c7083d5f25",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b7d953a3cce44c64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0e2b2693826848c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5325f50ce2a189",
+    "type": "split",
+    "children": [
+      {
+        "id": "6382592ba8ebf0ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e235d68a7a816b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10e3e5127f00a08f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b0db6c8acfd8b27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1af8b78d3f3b1d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5630f75b89eee421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ca007389c6681e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b22fd5f615e12b86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7d3d380ef5222ddf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63a6ae5f50503793",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b8c789ce003a7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0e2b2693826848c2",
+  "lastOpenFiles": [
+    "HAPVault/Articles/Published/mothers-day-gifts-for-mom.md",
+    "HAPVault/Articles/Published/how-to-set-up-zigbee-smart-plugs.md",
+    "HAPVault/SITE/Claude Access.md",
+    "Untitled.md",
+    "HAPVault/Articles/Published/best-vacuums-pet-hair-2.md",
+    "HAPVault/Articles/Published/best-vacuums-pet-hair-1.md",
+    "HAPVault/Articles/Published/best-soaker-hose.md",
+    "HAPVault/Articles/Published/best-smart-thermostat-old-house.md",
+    "HAPVault/Articles/Published/best-smart-dishwasher-2026.md",
+    "HAPVault/Articles/Published/best-robot-vacuum-under-200.md",
+    "HAPVault/Articles/Published/best-portable-grill-camping.md",
+    "HAPVault/Articles/Published/best-kitchen-mats.md",
+    "HAPVault/Articles/Published/best-handheld-vacuum-car.md",
+    "HAPVault/Articles/Published/heart-shaped-waffle-makers.md",
+    "HAPVault/Articles/Published/first-apartment-appliances-couples.md",
+    "HAPVault/Articles/Published/best-zigbee-smart-plugs.md",
+    "HAPVault/Articles/Planned/Article-pipeline.md",
+    "Index.md",
+    "HAPVault/ANALYTICS/Growth.md",
+    "HAPVault/SITE/INTERNAL-LINKING.md",
+    "HAPVault/AFFILIATE/Affiliate Tracker.md",
+    "HAPVault/SITE/Site Map.md",
+    "HAPVault/SITE",
+    "create a link.md",
+    "HAPVault/ANALYTICS",
+    "HAPVault/AFFILIATE",
+    "HAPVault/KEYWORDS",
+    "HAPVault/Articles/Planned",
+    "HAPVault/Articles/Published",
+    "HAPVault/Articles",
+    "HAPVault/Site",
+    "Welcome.md",
+    "HAPVault"
+  ]
+}
