@@ -92,10 +92,14 @@
             "id": "0e2b2693826848c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HAPVault/Templates/Temp4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temp4"
             }
           }
         ],
@@ -271,6 +275,8 @@
   },
   "active": "0e2b2693826848c2",
   "lastOpenFiles": [
+    "HAPVault/Templates/Temp4.md",
+    "HAPVault/Templates",
     "HAPVault/SITE/Site Map.md",
     "HAPVault/Articles/Published/mothers-day-gifts-for-mom.md",
     "HAPVault/Articles/Published/how-to-set-up-zigbee-smart-plugs.md",
