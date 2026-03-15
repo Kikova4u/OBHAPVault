@@ -239,16 +239,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "109ecc74f940b369",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -260,6 +271,7 @@
   },
   "active": "0e2b2693826848c2",
   "lastOpenFiles": [
+    "HAPVault/SITE/Site Map.md",
     "HAPVault/Articles/Published/mothers-day-gifts-for-mom.md",
     "HAPVault/Articles/Published/how-to-set-up-zigbee-smart-plugs.md",
     "HAPVault/SITE/Claude Access.md",
@@ -281,7 +293,6 @@
     "HAPVault/ANALYTICS/Growth.md",
     "HAPVault/SITE/INTERNAL-LINKING.md",
     "HAPVault/AFFILIATE/Affiliate Tracker.md",
-    "HAPVault/SITE/Site Map.md",
     "HAPVault/SITE",
     "create a link.md",
     "HAPVault/ANALYTICS",
