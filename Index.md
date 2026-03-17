@@ -75,6 +75,7 @@
 - [[ARTICLES/planned/article-pipeline]] — What to write next
 - [[AFFILIATE/AFFILIATE-TRACKER]] — All affiliate links
 - [[ANALYTICS/GROWTH-DASHBOARD]] — KPIs and stats
+- - [[VAULT-COMPACTING]] — Context compacting protocol and session checklist
 
 ---
 
