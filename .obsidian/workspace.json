@@ -11,10 +11,14 @@
             "id": "0e2b2693826848c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HAPVault/SITE/Claude Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Access"
             }
           }
         ]
@@ -188,11 +192,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b656bf611c13b78c",
+  "active": "0e2b2693826848c2",
   "lastOpenFiles": [
+    "Index.md",
     "HAPVault/Articles/Planned/Article-pipeline.md",
     "HAPVault/VAULT-COMPACTING.md",
-    "Index.md",
     "HAPVault/Templates/Temp5.md",
     "HAPVault/Templates/Temp4.md",
     "HAPVault/Templates",
